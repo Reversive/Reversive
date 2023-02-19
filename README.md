@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-I am a Software Engineer Student from Argentina 🇦🇷. I am passionate about improving my technical skills while helping others do the same.
-- 🔭 My main stack is <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="32" height="32"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/> </a>
-- 🌱 I’m currently learning **Malware Analysis** and improving my **Reversing Skills**
-- 🔭 I'm currently working on ```argentum-imgui```
-- 💬 You can ask me about anything
+I am a Software Engineer Student from Argentina 🇦🇷.
 
-## 📈 My GitHub Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reversive&show_icons=true&locale=en" alt="reversive" /></p>
+<div>
+  <a href="https://github.com/Reversive">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Reversive&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reversive&layout=compact&langs_count=7&theme=dracula"/>
+</div>
